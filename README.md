@@ -1,2 +1,0 @@
-# TrailheadX
-TrailheadX Demo
