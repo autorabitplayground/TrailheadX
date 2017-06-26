@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>39.0</version>
     <types>
+        <members>AccountCreation</members>
+        <members>AccountCreationTest</members>
         <members>CreateAccountTest</members>
         <members>CreatingAccount</members>
         <name>ApexClass</name>
@@ -74,6 +77,7 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
+        <members>TrailheadXObj__c.CF_TrailheadX__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -126,6 +130,7 @@
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
+        <members>TrailheadXObj__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
@@ -199,6 +204,7 @@
         <members>Product2-Product Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>TrailheadXObj__c-TrailheadXObj Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
@@ -294,6 +300,7 @@
         <members>Customer Portal Manager Custom</members>
         <members>Customer Portal Manager Standard</members>
         <members>Demo Profile 1</members>
+        <members>DemoProfileTX</members>
         <members>External Identity User</members>
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
@@ -373,6 +380,34 @@
         <members>VPNorthAmericanSales</members>
         <members>WesternSalesTeam</members>
         <name>Role</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <members>Activities</members>
+        <members>Address</members>
+        <members>BusinessHours</members>
+        <members>Case</members>
+        <members>Company</members>
+        <members>Contract</members>
+        <members>Entitlement</members>
+        <members>FileUploadAndDownloadSecurity</members>
+        <members>Forecasting</members>
+        <members>Ideas</members>
+        <members>Knowledge</members>
+        <members>LiveAgent</members>
+        <members>Macro</members>
+        <members>Mobile</members>
+        <members>Name</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>OrgPreference</members>
+        <members>PathAssistant</members>
+        <members>PersonalJourney</members>
+        <members>Product</members>
+        <members>Quote</members>
+        <members>Search</members>
+        <members>Security</members>
+        <name>Settings</name>
     </types>
     <types>
         <members>Account</members>
@@ -491,33 +526,4 @@
         <members>UserProvisioningRequest</members>
         <name>Workflow</name>
     </types>
-    <types>
-        <members>Account</members>
-        <members>Activities</members>
-        <members>Address</members>
-        <members>BusinessHours</members>
-        <members>Case</members>
-        <members>Company</members>
-        <members>Contract</members>
-        <members>Entitlement</members>
-        <members>FileUploadAndDownloadSecurity</members>
-        <members>Forecasting</members>
-        <members>Ideas</members>
-        <members>Knowledge</members>
-        <members>LiveAgent</members>
-        <members>Macro</members>
-        <members>Mobile</members>
-        <members>Name</members>
-        <members>Opportunity</members>
-        <members>Order</members>
-        <members>OrgPreference</members>
-        <members>PathAssistant</members>
-        <members>PersonalJourney</members>
-        <members>Product</members>
-        <members>Quote</members>
-        <members>Search</members>
-        <members>Security</members>
-        <name>Settings</name>
-    </types>
-    <version>39.0</version>
 </Package>
