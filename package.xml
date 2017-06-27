@@ -3,6 +3,7 @@
     <version>39.0</version>
     <types>
         <members>AccountCreation</members>
+        <members>AccountCreation1Test</members>
         <members>AccountCreationTest</members>
         <members>CreateAccountTest</members>
         <members>CreatingAccount</members>
