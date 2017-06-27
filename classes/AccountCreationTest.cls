@@ -1,7 +1,7 @@
 @isTest
 public class AccountCreationTest
 {
-  static testMethod void testInsertAccount() // Creating method
+  static testMethod void testInsertAccount()
   {
   
   //This is test class change for the demo
