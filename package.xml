@@ -76,6 +76,7 @@
         <members>Lead.SICCode__c</members>
         <members>Metric.OrigMetricId__c</members>
         <members>Obj_webinar__c.CF_Webinar1__c</members>
+        <members>Obj_webinar__c.Webinar_Field2__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
         <members>Opportunity.DeliveryInstallationStatus__c</members>
         <members>Opportunity.MainCompetitors__c</members>
