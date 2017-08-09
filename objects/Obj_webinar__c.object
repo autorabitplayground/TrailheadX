@@ -55,7 +55,7 @@
         <fullName>CF_Webinar1__c</fullName>
         <externalId>false</externalId>
         <label>CF_Webinar1</label>
-        <length>40</length>
+        <length>45</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
