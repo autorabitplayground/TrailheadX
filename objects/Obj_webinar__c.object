@@ -51,6 +51,16 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>CF_Webinar1__c</fullName>
+        <externalId>false</externalId>
+        <label>CF_Webinar1</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Obj_webinar</label>
     <nameField>
         <label>Obj_webinar Name</label>
