@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Webinar_Field2__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Webinar_Obj9__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
