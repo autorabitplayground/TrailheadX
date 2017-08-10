@@ -15,6 +15,11 @@
         <field>Obj_webinar__c.Webinar_Field2__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Obj_webinar__c.Webinar_Obj9__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Obj_webinar__c-Obj_webinar Layout</layout>
     </layoutAssignments>

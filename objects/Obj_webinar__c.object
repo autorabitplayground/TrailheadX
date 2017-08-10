@@ -72,6 +72,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>Webinar_Obj9__c</fullName>
+        <externalId>false</externalId>
+        <label>Webinar_Obj9</label>
+        <length>40</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Obj_webinar</label>
     <nameField>
         <label>Obj_webinar Name</label>
