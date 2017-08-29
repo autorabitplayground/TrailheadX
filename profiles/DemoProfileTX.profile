@@ -11,12 +11,29 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>CFObj_Asperri__c.CF_Asperri__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>TrailheadXObj__c.CF_TrailheadX__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>CFObj_Asperri__c-CFObj_Asperri Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TrailheadXObj__c-TrailheadXObj Layout</layout>
     </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>CFObj_Asperri__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
