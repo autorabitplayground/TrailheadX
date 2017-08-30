@@ -78,6 +78,7 @@
     </fields>
     <fields>
         <fullName>Active__c</fullName>
+        <description>Aug 17 changes- for Windstream demo</description>
         <externalId>false</externalId>
         <label>Active</label>
         <required>false</required>
@@ -172,6 +173,14 @@
         <fullName>Industry</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Is_this_True__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Is this True</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>Jigsaw</fullName>
@@ -296,6 +305,37 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>TestAutoRABIT__c</fullName>
+        <externalId>false</externalId>
+        <label>TestAutoRABIT</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>TestNumber__c</fullName>
+        <externalId>false</externalId>
+        <label>TestNumber</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>TestforDownUnderDreaming__c</fullName>
+        <externalId>false</externalId>
+        <label>TestforDownUnderDreaming</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -310,6 +350,7 @@
     </fields>
     <fields>
         <fullName>UpsellOpportunity__c</fullName>
+        <description>Test</description>
         <externalId>false</externalId>
         <label>Upsell Opportunity</label>
         <required>false</required>
@@ -335,6 +376,14 @@
                 </value>
             </valueSetDefinition>
         </valueSet>
+    </fields>
+    <fields>
+        <fullName>VlocityCheck__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>VlocityCheck</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>Website</fullName>
