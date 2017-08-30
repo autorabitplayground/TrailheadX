@@ -1,10 +1,10 @@
 @isTest
 public class AccountCreationTest
 {
-  static testMethod void testInsertAccount()
+  static testMethod void testInsertAccount() //testClass
   {
   
-  //This is test class change for the demo
+  // Aug 17 changes- for Windstream demo
   AccountCreation ca = new AccountCreation();
   ca.createAccount('TestAcc1');
   
