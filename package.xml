@@ -54,6 +54,7 @@
     <types>
         <members>Account.Active__c</members>
         <members>Account.CF_Account__c</members>
+        <members>Account.CF_Std_Accounts__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.Is_this_True__c</members>
         <members>Account.NumberofLocations__c</members>
@@ -83,6 +84,7 @@
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
         <members>CustObj_Prud__c.CF_Prud__c</members>
+        <members>CustObj_Prudential__c.CF_Prudential__c</members>
         <members>Del__c.Del_text__c</members>
         <members>DeloitteObj__c.Deloitte_CF__c</members>
         <members>Demo_Object__c.July26_test__c</members>
@@ -140,6 +142,7 @@
         <members>Contract</members>
         <members>ContractContactRole</members>
         <members>CustObj_Prud__c</members>
+        <members>CustObj_Prudential__c</members>
         <members>DandBCompany</members>
         <members>Del__c</members>
         <members>DeloitteObj__c</members>
@@ -252,6 +255,7 @@
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
         <members>CustObj_Prud__c-CustObj_Prud Layout</members>
+        <members>CustObj_Prudential__c-CustObj_Prudential Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Del__c-Del Layout</members>
         <members>DeloitteObj__c-DeloitteObj Layout</members>
@@ -395,6 +399,7 @@
         <members>HighVolumePortal</members>
         <members>Identity User</members>
         <members>MarketingProfile</members>
+        <members>PG-Profile1</members>
         <members>Partner App Subscription User</members>
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>

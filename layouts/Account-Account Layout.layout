@@ -53,6 +53,10 @@
                 <behavior>Edit</behavior>
                 <field>Is_this_True__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>CF_Std_Accounts__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
