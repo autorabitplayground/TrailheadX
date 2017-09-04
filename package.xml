@@ -82,6 +82,7 @@
         <members>Cognizant__c.Cognizant_text__c</members>
         <members>Contact.Languages__c</members>
         <members>Contact.Level__c</members>
+        <members>CustObj_Prud__c.CF_Prud__c</members>
         <members>Del__c.Del_text__c</members>
         <members>DeloitteObj__c.Deloitte_CF__c</members>
         <members>Demo_Object__c.July26_test__c</members>
@@ -138,6 +139,7 @@
         <members>ContentVersion</members>
         <members>Contract</members>
         <members>ContractContactRole</members>
+        <members>CustObj_Prud__c</members>
         <members>DandBCompany</members>
         <members>Del__c</members>
         <members>DeloitteObj__c</members>
@@ -249,6 +251,7 @@
         <members>Contact-Contact Layout</members>
         <members>ContentVersion-Content Version Layout</members>
         <members>Contract-Contract Layout</members>
+        <members>CustObj_Prud__c-CustObj_Prud Layout</members>
         <members>DandBCompany-D%26B Company Layout</members>
         <members>Del__c-Del Layout</members>
         <members>DeloitteObj__c-DeloitteObj Layout</members>
@@ -382,6 +385,7 @@
         <members>Customer Portal Manager Custom</members>
         <members>Customer Portal Manager Standard</members>
         <members>Demo Profile 1</members>
+        <members>DemoProfile-Sep</members>
         <members>DemoProfileTX</members>
         <members>External Identity User</members>
         <members>Force%2Ecom - App Subscription User</members>
@@ -563,6 +567,10 @@
         <members>WorkOrderPriority</members>
         <members>WorkOrderStatus</members>
         <name>StandardValueSet</name>
+    </types>
+    <types>
+        <members>CustObj_Prud__c.ValidRule_Prud</members>
+        <name>ValidationRule</name>
     </types>
     <types>
         <members>Account.Billing</members>
