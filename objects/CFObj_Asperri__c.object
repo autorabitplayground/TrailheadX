@@ -70,5 +70,12 @@
     <pluralLabel>CFObjs_Asperri</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>ValRule_pr</fullName>
+        <active>true</active>
+        <errorConditionFormula>CF_Asperri__c &lt;&gt; NULL</errorConditionFormula>
+        <errorDisplayField>CF_Asperri__c</errorDisplayField>
+        <errorMessage>This is a dummy validation rule</errorMessage>
+    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>

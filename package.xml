@@ -574,6 +574,7 @@
         <name>StandardValueSet</name>
     </types>
     <types>
+        <members>CFObj_Asperri__c.ValRule_pr</members>
         <members>CustObj_Prud__c.ValidRule_Prud</members>
         <name>ValidationRule</name>
     </types>
