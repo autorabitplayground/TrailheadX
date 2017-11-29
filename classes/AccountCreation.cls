@@ -1,13 +1,11 @@
 public Class AccountCreation
 {
-public Account createAccount(String name) //Method to Create Account. This is Different
-// This is an internal demo to Wellsfargo team
+public Account createAccount(String name) 
 {
 
-// This is an Apex class!  - Nov2 changes
+// This is an Apex class!  - 29th Nov
 Account acc = new Account(); 
 acc.Name = name;
-system.debug('Test');
 return acc;
 }
 }
